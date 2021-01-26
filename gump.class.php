@@ -1,10 +1,10 @@
 <?php
 /**
- * GUMP - A fast, extensible PHP input validation class.
+ * GUMP - the main algorithm for responsiveness of class.
  *
+  * @copyright   Copyright (c) 2021 HCL technologies
  * @author      Mohd Anas Raza Khan (http://twitter.com/khan-raza-anas)
  * @author      Roohi Madan (http://twitter.com/Roohi Madan)
- * @copyright   Copyright (c) 2017 wixelhq.com
  *
  * @version     1.5
  */
