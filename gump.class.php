@@ -2,8 +2,8 @@
 /**
  * GUMP - A fast, extensible PHP input validation class.
  *
- * @author      Sean Nieuwoudt (http://twitter.com/SeanNieuwoudt)
- * @author      Filis Futsarov (http://twitter.com/FilisCode)
+ * @author      Mohd Anas Raza Khan (http://twitter.com/khan-raza-anas)
+ * @author      Roohi Madan (http://twitter.com/Roohi Madan)
  * @copyright   Copyright (c) 2017 wixelhq.com
  *
  * @version     1.5
